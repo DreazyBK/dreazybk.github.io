@@ -1,0 +1,40 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: cornsilk;
+}
+
+h1 {
+    text-align: center;
+    color: darkmagenta;
+}
+
+h2 {
+    text-align: center;
+    color: darkmagenta;
+}
+
+table {
+    border: 2px solid darkmagenta;
+    width: 650px;
+    margin: 0 auto;
+}
+
+thead {
+    background-color: rgb(231, 128, 231);
+    border-color: inherit;
+    vertical-align: middle;
+}
+
+ tr {
+     border-color: inherit;
+ }
+
+ td {
+     border-top: 1px solid darkmagenta;
+ }
+
+ .tags {
+     font-family: monospace;
+     background-color: rgb(172, 169, 169);
+ }
+
